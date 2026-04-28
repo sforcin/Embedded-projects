@@ -21,6 +21,9 @@ Using 8 segment display, joystick and motor. As user moves joystick left or righ
 ### Project 6
 6 LED lights display the direction the motor is spinning. 2 buttons control the speed of the motor. Pressing the left button makes it spin slower, and pressing the right button makes it spin faster. This is done by controlling the clock cycle of the motor. Servo is also used, when joystick is moved up or down. Different uses of the joystick causes different outputs.
 
+### Custom Project 
+I developed a simple Space Invaders game. demos and code are included
+
 
 
 
